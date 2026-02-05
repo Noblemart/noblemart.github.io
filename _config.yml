@@ -1,0 +1,6 @@
+title: Noble Hardware & Machinery Mart
+description: Official blog for Noble Hardware & Machinery Mart
+theme: minima
+
+plugins:
+  - jekyll-feed
