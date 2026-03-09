@@ -3,6 +3,7 @@ layout: post
 title: "How Janatics Pneumatic Solutions Meet Food & Pharma Industry Standards in Automation"
 description: "Discover how Janatics pneumatic solutions support hygiene, precision, and reliability in food and pharmaceutical automation systems."
 ---
+![Janatics Pneumatic Solutions](/Janatics%20Pneumatic%20Solutions.png)
 
 ## Introduction
 
