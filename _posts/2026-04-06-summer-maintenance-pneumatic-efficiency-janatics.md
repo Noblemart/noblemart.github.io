@@ -5,6 +5,7 @@ date: 2026-04-06
 categories: janatics
 description: "Improve pneumatic efficiency during summer with expert maintenance tips and reliable Janatics components."
 ---
+![Summer Maintenance Guide](/summer-maintenance-guide.png)
 
 ## Overview
 During summer, rising temperatures can negatively impact pneumatic systems by causing air leaks, pressure drops, and increased wear. A proactive maintenance approach using reliable components helps maintain efficiency, reduce downtime, and extend equipment life.
