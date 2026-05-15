@@ -6,6 +6,8 @@ categories: [Pneumatics, Industrial Automation]
 tags: [Pneumatic Systems, Maintenance, Energy Efficiency]
 ---
 
+![Pneumatic System Performance](/Small%20Changes%20Optimize%20Pneumatic%20Systems.png)
+
 # How Small Changes Can Improve Pneumatic System Performance
 
 In many industries, pneumatic systems handle essential tasks like lifting, clamping, and positioning. Since they operate in the background, they are often ignored until issues arise. However, improving their performance doesn’t always require major upgrades — small changes can make a big difference.
